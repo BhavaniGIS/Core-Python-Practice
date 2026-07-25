@@ -11,8 +11,7 @@ print(f"Square root of 16 is: {math.sqrt(16)}")
 
 # 15. KEYWORDS: If 
 # Core Use: Calculating the exact square root of a given numeric value.
-# Explanation: A function bundled inside the 'math' module that returns a floating-point square root 
-result.
+# Explanation: A function bundled inside the 'math' module that returns a floating-point square root result.
 
 total_count  = 349
 If total_count > 100:
