@@ -14,8 +14,8 @@ print(f"Square root of 16 is: {math.sqrt(16)}")
 # Explanation: A function bundled inside the 'math' module that returns a floating-point square root result.
 
 total_count  = 349
-If total_count > 100:
-   print(“This is a big zone”)
+if total_count > 100:
+   print("This is a big zone")
 
 # 16. DATA TYPE: String (str)
 # Core Use: Storing textual data or characters in a variable.
