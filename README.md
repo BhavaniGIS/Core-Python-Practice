@@ -8,7 +8,7 @@ Building a strong foundation in core programming principles to write clean, effi
 Here is the structured breakdown of the core programming concepts practiced from Day 1 to Day 8:
 
 | Day | Topics Covered | Key Concepts Applied 
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- 
 | **Day 1** | Python Basics | `print()`, `type()` function, and Variables 
 | **Day 2** | List Operations & Logic | List methods (`.append()`), `len()`, and `if-else` branching 
 | **Day 3** | Advanced Conditional Logic | Multi-condition testing (`if-elif-else`) and Logical operators (`and`, `or`) 
